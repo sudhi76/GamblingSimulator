@@ -17,7 +17,7 @@ public class GamblingSimulator {
 		} else {
 			stake--;
 		}
-		System.out.println("stake = " + stake);
+		System.out.println("stake  = " + stake);
 
 	}
 
