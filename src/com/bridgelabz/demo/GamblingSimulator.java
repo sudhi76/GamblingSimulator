@@ -1,4 +1,4 @@
-package gamblingSimulator;
+package com.bridgelabz.demo;
 
 public class GamblingSimulator {
 	static final int STAKE_PER_DAY = 100;
