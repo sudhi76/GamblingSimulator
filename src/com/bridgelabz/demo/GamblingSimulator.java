@@ -13,9 +13,9 @@ public class GamblingSimulator {
 		Random random = new Random();
 		int betReturns = random.nextInt(2);
 		if (betReturns == WIN) {
-			stake++;// incrementing
+			stake++;
 		} else {
-			stake--;// decrementing
+			stake--;
 		}
 		System.out.println("stake = " + stake);
 
